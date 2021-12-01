@@ -1,12 +1,12 @@
 ## Table of Contents
 1. [Project Name](#Project-Name)
-<!-- 2. [Description](#Description)
+2. [Description](#Description)
 3. [Author](#Author)
 4. [Technolodges](#Technologies)
 5. [Contacts](#Contacts)
 6. [Project](#Project-live-link)
 7. [Set-Up Instructions](#setup-instructions)
-8. [License](#license) -->
+8. [License](#license)
 
 ## Project Name
 Delani Studio
