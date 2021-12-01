@@ -30,14 +30,14 @@ Email: imelda.wade@student.moringaschool.com
 ## Project live link
 https://imeldawade.github.io/Delani-Studio/
 
-<!-- ##  setup Instructions
+##  setup Instructions
 To run this project on your computer/local repository 
 
 fork it from the remote repo:
 
 https://github.com/imeldawade/Delani-Studio.git
 
-then clone it to your local repo. -->
+then clone it to your local repo.
 
 <!-- ## License
 MIT [License](/LICENSE) (c) 2021 -->
