@@ -9,7 +9,7 @@
 8. [License](#license)
 
 ## Project Name
-Delani Studio
+Pizzered
 
 ## Description
 This studio solves problems using designs
@@ -40,6 +40,4 @@ https://github.com/imeldawade/Delani-Studio.git
 then clone it to your local repo.
 
 ## License
-MIT [License](/LICENSE) (c) 2021 -->
-
-<!-- 
+MIT [License](/LICENSE) (c) 2021
