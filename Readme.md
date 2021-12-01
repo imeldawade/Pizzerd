@@ -17,11 +17,11 @@ This studio solves problems using designs
 ## Author
 * Imelda Wade
 
-<!-- ## Technologies                                                             
+## Technologies                                                             
 * HTML
 * CSS
 * Bootstrap
-* Javascript -->
+* Javascript
 
 
 <!-- ## Contacts
