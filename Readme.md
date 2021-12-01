@@ -29,7 +29,7 @@ This is a Pizza web app where you can choose a pizza with additions to your own 
 Email: imelda.wade@student.moringaschool.com
 
 ## Project live link
-https://imeldawade.github.io/Delani-Studio/
+
 
 ##  setup Instructions
 To run this project on your computer/local repository 
