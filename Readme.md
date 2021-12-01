@@ -12,7 +12,7 @@
 Pizzered
 
 ## Description
-This studio solves problems using designs
+This is a Pizza web app where you can choose a pizza with additions to your own liking, and at affordable prices.
 
 ## Author
 * Imelda Wade
@@ -22,6 +22,7 @@ This studio solves problems using designs
 * CSS
 * Bootstrap
 * Javascript
+* Jquery
 
 
 ## Contacts
