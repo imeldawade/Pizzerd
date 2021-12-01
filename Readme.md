@@ -27,8 +27,8 @@ This studio solves problems using designs
 ## Contacts
 Email: imelda.wade@student.moringaschool.com
 
-<!-- ## Project live link
-https://imeldawade.github.io/Delani-Studio/ -->
+## Project live link
+https://imeldawade.github.io/Delani-Studio/
 
 <!-- ##  setup Instructions
 To run this project on your computer/local repository 
