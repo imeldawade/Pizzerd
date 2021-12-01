@@ -11,8 +11,8 @@
 ## Project Name
 Delani Studio
 
-<!-- ## Description
-This studio solves problems using designs -->
+## Description
+This studio solves problems using designs
 
 <!-- ## Author
 * Imelda Wade -->
