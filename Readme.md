@@ -14,8 +14,8 @@ Delani Studio
 ## Description
 This studio solves problems using designs
 
-<!-- ## Author
-* Imelda Wade -->
+## Author
+* Imelda Wade
 
 <!-- ## Technologies                                                             
 * HTML
