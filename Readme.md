@@ -37,7 +37,7 @@ To run this project on your computer/local repository
 
 fork it from the remote repo:
 
-https://github.com/imeldawade/Delani-Studio.git
+https://github.com/imeldawade/Pizzerd
 
 then clone it to your local repo.
 
