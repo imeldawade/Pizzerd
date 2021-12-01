@@ -1,5 +1,5 @@
-<!-- ## Table of Contents
-1. [Project Name](#Project-Name) -->
+## Table of Contents
+1. [Project Name](#Project-Name)
 <!-- 2. [Description](#Description)
 3. [Author](#Author)
 4. [Technolodges](#Technologies)
