@@ -39,7 +39,7 @@ https://github.com/imeldawade/Delani-Studio.git
 
 then clone it to your local repo.
 
-<!-- ## License
+## License
 MIT [License](/LICENSE) (c) 2021 -->
 
-<!--  -->
+<!-- 
